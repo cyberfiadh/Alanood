@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">مؤسسة الأميرة العنود الخيرية</string>
     <string name="title_activity_main">Main</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">الإعدادات</string>
     <string name="title_activity_maps">Map</string>
+    <string name="core_new">جديد</string>
+    <string name="core_edit">تعديل</string>
+    <string name="core_search">بحث</string>
+    <string name="extra_actions_settings">الإعدادات</string>
+    <string name="extra_actions_about">عنّا</string>
 </resources>
